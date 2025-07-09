@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dorkyderp17, or Diksha!
+- 👋 Hi, I’m Diksha!
 - 👀 I’m interested in cs. obviously.
 - 🌱 I’m currently learning how to dip my toes into the professional CS world... and more coding languages. Currently I know Python and JavaScript.
 - 💞️ I’m looking to collaborate on literally anything. But mainly website management and data analysis projects! I'm also interested in AI and machine learning.
